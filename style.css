@@ -1,0 +1,44 @@
+h1{
+    background-color: #FFFAFA;
+    left:35%;
+    position: relative;
+    color: #800000;
+    font-size: 40px;
+    width:40%;
+    top: 100px;
+    font-family: oblique;
+    font-weight: 700;
+    margin:20px;
+
+}
+
+.img1 {
+    position:relative;
+    left:20%;
+}
+
+h5{
+    font-weight: 700;
+    font-family: oblique;
+}
+
+.card{
+    margin:20px;
+}
+
+.navbar{
+    margin:20px;
+}
+
+#carouselExample{
+    margin:20px;
+}
+
+.text{
+    position:relative;
+    font-size: 15px;
+    left:5%;
+    padding: 5%;
+    margin:20px;
+    
+}
